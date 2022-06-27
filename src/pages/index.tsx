@@ -12,7 +12,7 @@ interface HomeProps {
     amount: number;
   }
 }
-
+''
 export default function Home({ product }: HomeProps) {
   console.log(product)
 
